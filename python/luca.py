@@ -1,5 +1,13 @@
 import os
 
-os.system("echo Hello Alexandra!")
-os.system("say -v luca Alexandra is beautiful!")
-os.system("say I know, right?")
+name = input("Hello, what is your name? ")
+
+feeling = input("How are you " + name + "? ")
+
+print("That is great " + name + ". I am glad you are " + feeling + "!!")
+
+
+
+# def speak(name, feeling):
+
+# 	os.system("say goodbye" %name)
