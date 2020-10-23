@@ -1,6 +1,12 @@
-from socket import *
+import socket
 
-s=socket(AF_INET, SOCK_DGRAM)
-s.bind(('127.0.1.1',49000))
-m=s.recvfrom(1024)
-print m[0]
+UDP_IP = "192.168.1.16"
+UDP_PORT = 49000
+
+sock = socket.socket(socket.AF_INET,
+					 socket.SOCK_DGRAM)
+sock.bind((UDP_IP, UDP_PORT))
+
+while True:
+	data, addr = sock.recvfrom(1024)
+	print("Received message: %s" % data)
