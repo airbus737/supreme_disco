@@ -1,12 +1,6 @@
-import socket
+from socket import *
 
-UDP_IP = "127.0.1.1"
-UDP_PORT = 49000
-
-sock = socket.socket(socket.AF_INET, # Internet
-                     socket.SOCK_DGRAM) # UDP
-sock.bind((UDP_IP, UDP_PORT))
-
-while True:
-	data, addr = sock.recvfrom(8096) # buffer size is 1024 bytes
-	print("received message: %s" % data)
+s=socket(AF_INET, SOCK_DGRAM)
+s.bind(('127.0.1.1',49000))
+m=s.recvfrom(1024)
+print m[0]
