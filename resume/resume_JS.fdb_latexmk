@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1620664000 "/Users/airbus737/supreme_disco/resume/resume_JS.tex" "/Users/airbus737/supreme_disco/resume/resume_JS.pdf" "resume_JS" 1620664000
-  "/Users/airbus737/supreme_disco/resume/resume_JS.aux" 1620664000 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/airbus737/supreme_disco/resume/resume_JS.tex" 1620663998 9750 fb988095263bf355ae2371629319c153 ""
+["pdflatex"] 1620666485 "/Users/airbus737/supreme_disco/resume/resume_JS.tex" "/Users/airbus737/supreme_disco/resume/resume_JS.pdf" "resume_JS" 1620666485
+  "/Users/airbus737/supreme_disco/resume/resume_JS.aux" 1620666485 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/airbus737/supreme_disco/resume/resume_JS.tex" 1620666480 5581 d8aee0864b28098e376f3bef2d6c9117 ""
   "/Users/airbus737/supreme_disco/resume/sig.png" 0 -1 0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -116,12 +116,12 @@
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "resume_JS.aux" 0 -1 0 "pdflatex"
   "resume_JS.out" 0 -1 0 "pdflatex"
-  "resume_JS.tex" 1620663998 9750 fb988095263bf355ae2371629319c153 ""
+  "resume_JS.tex" 1620666480 5581 d8aee0864b28098e376f3bef2d6c9117 ""
   "sig.png" 0 -1 0 ""
   (generated)
+  "resume_JS.pdf"
+  "/Users/airbus737/supreme_disco/resume/resume_JS.pdf"
   "resume_JS.aux"
   "/Users/airbus737/supreme_disco/resume/resume_JS.log"
-  "resume_JS.pdf"
-  "resume_JS.log"
-  "/Users/airbus737/supreme_disco/resume/resume_JS.pdf"
   "resume_JS.out"
+  "resume_JS.log"
