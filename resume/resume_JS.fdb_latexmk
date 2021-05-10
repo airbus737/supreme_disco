@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1620673019 "/Users/airbus737/supreme_disco/resume/resume_JS.tex" "/Users/airbus737/supreme_disco/resume/resume_JS.pdf" "resume_JS" 1620673021
+["pdflatex"] 1620673019 "/Users/airbus737/supreme_disco/resume/resume_JS.tex" "/Users/airbus737/supreme_disco/resume/resume_JS.pdf" "resume_JS" 1620673074
   "/Users/airbus737/supreme_disco/resume/resume_JS.aux" 1620673021 781 a179d113ffc823d1d6f4c1d0b69d21bf ""
-  "/Users/airbus737/supreme_disco/resume/resume_JS.tex" 1620673019 5929 7dab30f6a9732dd05e4dd486bd7d711c ""
+  "/Users/airbus737/supreme_disco/resume/resume_JS.tex" 1620673072 5929 7dab30f6a9732dd05e4dd486bd7d711c ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc" 1576101225 3075 0696ceafc85b8352a913efb9ba64bc17 ""
@@ -112,12 +112,12 @@
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "resume_JS.aux" 1620673021 781 a179d113ffc823d1d6f4c1d0b69d21bf "pdflatex"
   "resume_JS.out" 1620673020 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume_JS.tex" 1620673019 5929 7dab30f6a9732dd05e4dd486bd7d711c ""
+  "resume_JS.tex" 1620673072 5929 7dab30f6a9732dd05e4dd486bd7d711c ""
   "sig.png" 1620672979 22776 9f1cbe486fd6bbda7b8ccfa850983456 ""
   (generated)
+  "/Users/airbus737/supreme_disco/resume/resume_JS.log"
+  "resume_JS.log"
+  "resume_JS.pdf"
   "resume_JS.aux"
   "resume_JS.out"
   "/Users/airbus737/supreme_disco/resume/resume_JS.pdf"
-  "resume_JS.log"
-  "resume_JS.pdf"
-  "/Users/airbus737/supreme_disco/resume/resume_JS.log"
