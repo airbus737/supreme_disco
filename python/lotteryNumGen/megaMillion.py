@@ -17,10 +17,10 @@ for num in range (0,5):
 megaBall = []
 
 for num in range (1):
-	number2 = random.randint(1,26)
+	number2 = random.randint(1,25)
 
 	while number2 in megaBall:
-		 number = random.randint(1,26)
+		 number = random.randint(1,25)
 
 	megaBall.append(number2)
 
