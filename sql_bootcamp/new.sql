@@ -1,5 +1,7 @@
-CREATE TABLE cats (
-    cat_id SERIAL NOT NULL PRIMARY KEY,
-    name VARCHAR(100),
-    age INT
-);
+INSERT INTO
+    cats(name, age)
+VALUES('Sally', 17);
+
+INSERT INTO
+    cats(name, age)
+VALUES('Connie', 10);
