@@ -22,7 +22,6 @@
 
 import numpy as np
 
-
 up = sum(np.loadtxt("day2-input.txt", comments=["do", "fo"],dtype=str)[:,1].astype(np.int8)) 
 down = sum(np.loadtxt("day2-input.txt", comments=["up", "fo"],dtype=str)[:,1].astype(np.int8))
 forward = sum(np.loadtxt("day2-input.txt", comments=["up", "do"],dtype=str)[:,1].astype(np.int8))
